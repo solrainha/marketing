@@ -19,7 +19,7 @@ a.anchor{color:#333;}
 /* Navegação */
 
 nav ul#menu{background:#fff;display:block;left:0;margin:20px 10%;padding:0;position:fixed;right:0;top:0;z-index:999;text-align:center;box-shadow:0 10px 20px #ebebeb;border-radius:50px;font-family:Philosopher;}
-nav ul#menu img{float:left;left:50px;margin:20px 0 0 60px;position:absolute;width:50px;}
+nav ul#menu img{float:left;left:20px;margin:10px;position:absolute;width:50px;}
 nav ul#menu a:hover{color:inherit;}
 nav ul#menu ul{left:0;opacity:0;padding:0;position:absolute;transition:linear all .3s;visibility:hidden;width:180px;}
 nav ul#menu ul li{background:none;display:block;float:none;}
